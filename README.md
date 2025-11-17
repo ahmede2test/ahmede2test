@@ -22,77 +22,66 @@
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=ahmede2test&repo=News_clude&theme=tokyonight&border_radius=20" />
   </a>
   <br>🚀 <b>News Clude</b> – Modern News App (REST API)
-  <br><br>
 
   <!-- 2 -->
   <a href="https://github.com/ahmede2test/ToDo-App-master">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=ahmede2test&repo=ToDo-App-master&theme=tokyonight&border_radius=20" />
   </a>
   <br>📝 <b>ToDo Master</b> – Task Manager (Local Storage)
-  <br><br>
 
   <!-- 3 -->
   <a href="https://github.com/ahmede2test/Islamy_Application--dev">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=ahmede2test&repo=Islamy_Application--dev&theme=tokyonight&border_radius=20" />
   </a>
   <br>🕌 <b>Islamy App</b> – Quran • Hadith • Audio
-  <br><br>
 
   <!-- 4 -->
   <a href="https://github.com/ahmede2test/Chat_App">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=ahmede2test&repo=Chat_App&theme=tokyonight&border_radius=20" />
   </a>
-  <br>💬 <b>Chat App</b> – Firebase Real-Time Messaging
-  <br><br>
+  <br>💬 <b>Chat App</b> – Firebase Realtime Messaging
 
   <!-- 5 -->
   <a href="https://github.com/ahmede2test/Tracking_App">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=ahmede2test&repo=Tracking_App&theme=tokyonight&border_radius=20" />
   </a>
   <br>📍 <b>Tracking App</b> – ESP32 • GPS • SIM800L SMS Tracking
-  <br><br>
 
   <!-- 6 -->
   <a href="https://github.com/ahmede2test/Ecommerce_App">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=ahmede2test&repo=Ecommerce_App&theme=tokyonight&border_radius=20" />
   </a>
-  <br>🛒 <b>E-Commerce App</b> – Cart • Products • UI
-  <br><br>
+  <br>🛒 <b>E-Commerce App</b> – Cart • Products • Modern UI
 
   <!-- 7 -->
   <a href="https://github.com/ahmede2test/Portfolio_App">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=ahmede2test&repo=Portfolio_App&theme=tokyonight&border_radius=20" />
   </a>
   <br>🎨 <b>Portfolio App</b> – Personal Branding UI
-  <br><br>
 
   <!-- 8 -->
   <a href="https://github.com/ahmede2test/Notes_App">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=ahmede2test&repo=Notes_App&theme=tokyonight&border_radius=20" />
   </a>
   <br>📝 <b>Notes App</b> – Hive • Fast Notes
-  <br><br>
 
   <!-- 9 -->
   <a href="https://github.com/ahmede2test/Weather_App">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=ahmede2test&repo=Weather_App&theme=tokyonight&border_radius=20" />
   </a>
   <br>🌤 <b>Weather App</b> – Weather API • Dynamic UI
-  <br><br>
 
   <!-- 10 -->
   <a href="https://github.com/ahmede2test/Movies_App">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=ahmede2test&repo=Movies_App&theme=tokyonight&border_radius=20" />
   </a>
-  <br>🎬 <b>Movies App</b> – TMDB API Movie Explorer
-  <br><br>
+  <br>🎬 <b>Movies App</b> – TMDB API Explorer
 
   <!-- 11 -->
   <a href="https://github.com/ahmede2test/Quiz_App">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=ahmede2test&repo=Quiz_App&theme=tokyonight&border_radius=20" />
   </a>
   <br>🧠 <b>Quiz App</b> – Interactive Questions
-  <br><br>
 
   <!-- 12 -->
   <a href="https://github.com/ahmede2test/Login_UI">
@@ -104,49 +93,59 @@
 
 ---
 
+## 🧩 Extra Premium Projects
+
+### 🚀 **QB Academia – Learning Management System**  
+🔗 https://github.com/ahmede2test/qb_academia-
+
+### 📘 **Project Path – Task & Learning Tracker**  
+🔗 https://github.com/ahmede2test/projectpath
+
+### 🐳 **Web Docker Assignment – Full Dockerized Web Setup**  
+🔗 https://github.com/ahmede2test/web-docker-assignment
+
+---
+
 ## 🚀 My Tech Stack
 
 ### 🛠 Mobile Development  
-Flutter • Dart • Clean Architecture • MVC • MVVM • Provider • Riverpod • GetX
+Flutter • Dart • Clean Architecture • MVC • MVVM  
+Provider • Riverpod • GetX
 
 ### 🔥 Backend & APIs  
 Firebase (Auth – Firestore – Messaging – Storage)  
-REST API • JSON • Local Storage (Hive – Shared Preferences)
+REST APIs • JSON • Local Storage (Hive – Shared Preferences)
 
 ### ⚙ Hardware / IoT  
 ESP32 • SIM800L • GPS Neo-6M  
 SMS Tracking • Hardware–Software Integration
 
 ### 🎨 UI/UX  
-Animations • Custom Widgets • Dark/Light Mode • Responsive Design
+Animations • Custom Widgets • Dark/Light Mode  
+Responsive Design • Modern Layouts
 
 ---
 
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=ahmede2test&show_icons=true&theme=tokyonight&border_radius=20" />
-  <img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=ahmede2test&theme=tokyonight&border_radius=20" />
+  <img height="150" src="https://github-readme-stats.vercel.app/api?username=ahmede2test&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" />
+  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs?username=ahmede2test&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" />
 </div>
 
 ---
 
-## 🐍 Contribution Snake
-
+## 🐍 Contribution Snake  
 <div align="center">
- <img src="https://raw.githubusercontent.com/ahmede2test/ahmede2test/output/snake.svg" width="100%" />
+ <img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" width="100%" />
 </div>
 
 ---
 
-## 🔥 Contact Me (Ultra Premium Section)
+## 📞 Let's Build Something Great Together  
+💬 Collaboration — Freelance Work — Company Projects — Remote Opportunities
 
 <div align="center">
-
-### 📞 **Let's Build Something Great Together**  
-💬 للتعاون — للعمل الحر — لمشاريع الشركات — لشغل Remote
-
-<br>
 
 <a href="https://wa.me/201027451231" target="_blank">
   <img src="https://img.shields.io/badge/WhatsApp-01027451231-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
