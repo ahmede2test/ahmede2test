@@ -79,7 +79,8 @@ Here are some of the key applications and solutions I have built:
 ## 📊 GitHub Performance & Metrics
 <div align="center">
   <img height="170" src="https://github-readme-stats.vercel.app/api?username=ahmede2test&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs?username=ahmede2test&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" />
+  
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs?username=ahmede2test&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide=html,css,cmake,swift,shell,java,python&hide_border=false" />
 </div>
 
 ---
