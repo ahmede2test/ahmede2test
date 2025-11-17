@@ -37,43 +37,29 @@
 
 ## 🚀 Flagship Projects | Portfolio Showcase
 
-<div align="center">
+Here are some of the key applications and solutions I have built:
 
-  <a href="https://github.com/ahmede2test/News_clude">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ahmede2test&repo=News_clude&theme=tokyonight&border_radius=20" />
-  </a>
-  <br>🚀 <b>News Clude</b> – Modern News App (REST API)
+### 📱 Mobile App Portfolio (Flutter)
 
-  <a href="https://github.com/ahmede2test/ToDo-App-master">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ahmede2test&repo=ToDo-App-master&theme=tokyonight&border_radius=20" />
-  </a>
-  <br>📝 <b>ToDo Master</b> – Task Manager (Local Storage)
+* **News Clude:** Modern News App powered by REST API. 
+    (🔗 [View Repository](https://github.com/ahmede2test/News_clude))
+* **ToDo Master:** Task Manager utilizing Local Storage for fast data persistence.
+    (🔗 [View Repository](https://github.com/ahmede2test/ToDo-App-master))
+* **Islamy App:** Comprehensive Islamic application featuring Quran, Hadith, and Audio playback.
+    (🔗 [View Repository](https://github.com/ahmede2test/Islamy_Application--dev))
+* **Chat App:** Real-time messaging application using Firebase for synchronization.
+    (🔗 [View Repository](https://github.com/ahmede2test/Chat_App))
+* **Tracking App:** IoT application integrating ESP32, GPS, and SIM800L for real-time tracking via SMS.
+    (🔗 [View Repository](https://github.com/ahmede2test/Tracking_App))
 
-  <a href="https://github.com/ahmede2test/Islamy_Application--dev">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ahmede2test&repo=Islamy_Application--dev&theme=tokyonight&border_radius=20" />
-  </a>
-  <br>🕌 <b>Islamy App</b> – Quran • Hadith • Audio
+### 💎 Enterprise & Case Studies (Tier-1 Solutions)
 
-  <a href="https://github.com/ahmede2test/Chat_App">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ahmede2test&repo=Chat_App&theme=tokyonight&border_radius=20" />
-  </a>
-  <br>💬 <b>Chat App</b> – Firebase Realtime Messaging
-
-  <a href="https://github.com/ahmede2test/Tracking_App">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ahmede2test&repo=Tracking_App&theme=tokyonight&border_radius=20" />
-  </a>
-  <br>📍 <b>Tracking App</b> – ESP32 • GPS • SIM800L SMS Tracking
-  
-  <br>
-  <br>
-
-  </div>
-
-### 💎 Tier-1 Enterprise Solutions & Deep-Dive Case Studies
-
-* **🚀 QB Academia – Learning Management System** 🔗 https://github.com/ahmede2test/qb_academia-
-* **📘 Project Path – Task & Learning Tracker** 🔗 https://github.com/ahmede2test/projectpath
-* **🐳 Web Docker Assignment – Full Dockerized Web Setup** 🔗 https://github.com/ahmede2test/web-docker-assignment
+* **🚀 QB Academia – Learning Management System:** A full-scale LMS solution. 
+    (🔗 [View Repository](https://github.com/ahmede2test/qb_academia-))
+* **📘 Project Path – Task & Learning Tracker:** A robust tool for managing tasks and tracking learning progress. 
+    (🔗 [View Repository](https://github.com/ahmede2test/projectpath))
+* **🐳 Web Docker Assignment – Full Dockerized Web Setup:** Demonstrates professional containerization and web deployment skills. 
+    (🔗 [View Repository](https://github.com/ahmede2test/web-docker-assignment))
 
 ---
 
