@@ -1,4 +1,4 @@
- <div align="center">
+<div align="center">
   <img height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" alt="Animated Coding GIF" />
 </div>
 
@@ -61,43 +61,9 @@
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=ahmede2test&repo=Tracking_App&theme=tokyonight&border_radius=20" />
   </a>
   <br>📍 <b>Tracking App</b> – ESP32 • GPS • SIM800L SMS Tracking
-
-  <a href="https://github.com/ahmede2test/Ecommerce_App">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ahmede2test&repo=Ecommerce_App&theme=tokyonight&border_radius=20" />
-  </a>
-  <br>🛒 <b>E-Commerce App</b> – Cart • Products • Modern UI
-
-  <a href="https://github.com/ahmede2test/Portfolio_App">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ahmede2test&repo=Portfolio_App&theme=tokyonight&border_radius=20" />
-  </a>
-  <br>🎨 <b>Portfolio App</b> – Personal Branding UI
-
-  <a href="https://github.com/ahmede2test/Notes_App">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ahmede2test&repo=Notes_App&theme=tokyonight&border_radius=20" />
-  </a>
-  <br>📝 <b>Notes App</b> – Hive • Fast Notes
-
-  <a href="https://github.com/ahmede2test/Weather_App">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ahmede2test&repo=Weather_App&theme=tokyonight&border_radius=20" />
-  </a>
-  <br>🌤 <b>Weather App</b> – Weather API • Dynamic UI
-
-  <a href="https://github.com/ahmede2test/Movies_App">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ahmede2test&repo=Movies_App&theme=tokyonight&border_radius=20" />
-  </a>
-  <br>🎬 <b>Movies App</b> – TMDB API Explorer
-
-  <a href="https://github.com/ahmede2test/Quiz_App">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ahmede2test&repo=Quiz_App&theme=tokyonight&border_radius=20" />
-  </a>
-  <br>🧠 <b>Quiz App</b> – Interactive Questions
-
-  <a href="https://github.com/ahmede2test/Login_UI">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ahmede2test&repo=Login_UI&theme=tokyonight&border_radius=20" />
-  </a>
-  <br>🔐 <b>Login UI</b> – Authentication Screens
-
-</div>
+  
+  <br>
+  </div>
 
 ---
 
@@ -133,13 +99,13 @@ Responsive Design • Modern Layouts
 
 ## 📊 GitHub Performance & Metrics
 <div align="center">
-  <img height="150" src="https://github-readme-stats.vercel.app/api?username=ahmede2test&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" />
-  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs?username=ahmede2test&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=ahmede2test&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs?username=ahmede2test&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" />
 </div>
 
 ---
 
-## 🐍 Contribution Snake
+## 🐍 Contribution Snake & Activity Map
 <div align="center">
   <img src="https://raw.githubusercontent.com/ahmede2test/ahmede2test/output/snake.svg" alt="Snake animation" width="100%" />
 </div>
@@ -153,7 +119,7 @@ Responsive Design • Modern Layouts
   <a href="https://www.youtube.com/@YourChannel" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="YouTube logo" />
   </a>
-  <a href="https://instagram.com/YourHandle" target="_blank">
+  <a href="https://instagram.com/ahmed_el_sisiy" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="Instagram logo" />
   </a>
   <a href="https://twitch.tv/YourTwitch" target="_blank">
@@ -174,7 +140,6 @@ Responsive Design • Modern Layouts
   <a href="https://wa.me/201027451231" target="_blank">
     <img src="https://img.shields.io/static/v1?message=WhatsApp&logo=whatsapp&label=&color=25D366&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="WhatsApp logo" />
   </a>
-
 </div>
 
 ---
