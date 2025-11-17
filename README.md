@@ -1,4 +1,4 @@
- <div align="center">
+<div align="center">
   <img height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" />
 </div>
 
@@ -9,26 +9,6 @@
 
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00F3FF&center=true&vCenter=true&width=600&lines=Flutter+Developer;Mobile+Engineer;Firebase+Expert;Clean+Architecture+Advocate;IoT+%7C+ESP32+%7C+GPS+Tracking" />
-</div>
-
----
-
-## 🛠 Multi-Domain Proficiency
-
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="30" alt="Flutter logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" height="30" alt="Dart logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="30" alt="Firebase logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="30" alt="C++ logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="30" alt="Linux logo" />
 </div>
 
 ---
@@ -132,17 +112,9 @@ Responsive Design • Modern Layouts
 ---
 
 ## 📊 GitHub Performance & Metrics
-
 <div align="center">
   <img height="150" src="https://github-readme-stats.vercel.app/api?username=ahmede2test&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" />
   <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs?username=ahmede2test&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" />
-</div>
-
----
-
-## 🐍 Contribution Snake  
-<div align="center">
-  <img src="https://raw.githubusercontent.com/ahmede2test/ahmede2test/output/snake.svg" alt="Snake animation" width="100%" />
 </div>
 
 ---
@@ -156,13 +128,9 @@ Responsive Design • Modern Layouts
   <img src="https://img.shields.io/badge/WhatsApp-01027451231-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
 </a>
 
-<br><br>
-
 <a href="mailto:ahmede2test@gmail.com" target="_blank">
   <img src="https://img.shields.io/badge/Email-ahmede2test%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
-
-<br><br>
 
 <a href="https://linkedin.com/in/ahmede2test" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-Profile-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
