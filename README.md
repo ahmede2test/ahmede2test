@@ -35,7 +35,7 @@
 
 ---
 
-## 🌟 Flagship Projects | 12-Point Mobile Portfolio
+## 🚀 Flagship Projects | Portfolio Showcase
 
 <div align="center">
 
@@ -65,18 +65,15 @@
   <br>📍 <b>Tracking App</b> – ESP32 • GPS • SIM800L SMS Tracking
   
   <br>
+  <br>
 
-</div>
+  </div>
 
----
+### 💎 Tier-1 Enterprise Solutions & Deep-Dive Case Studies
 
-## 💎 Tier-1 Enterprise Solutions & Deep-Dive Case Studies
-
-### 🚀 **QB Academia – Learning Management System** 🔗 https://github.com/ahmede2test/qb_academia-
-
-### 📘 **Project Path – Task & Learning Tracker** 🔗 https://github.com/ahmede2test/projectpath
-
-### 🐳 **Web Docker Assignment – Full Dockerized Web Setup** 🔗 https://github.com/ahmede2test/web-docker-assignment
+* **🚀 QB Academia – Learning Management System** 🔗 https://github.com/ahmede2test/qb_academia-
+* **📘 Project Path – Task & Learning Tracker** 🔗 https://github.com/ahmede2test/projectpath
+* **🐳 Web Docker Assignment – Full Dockerized Web Setup** 🔗 https://github.com/ahmede2test/web-docker-assignment
 
 ---
 
