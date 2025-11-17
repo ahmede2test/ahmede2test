@@ -1,4 +1,4 @@
- <div align="center">
+<div align="center">
   <img height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" />
 </div>
 
@@ -22,66 +22,77 @@
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=ahmede2test&repo=News_clude&theme=tokyonight&border_radius=20" />
   </a>
   <br>🚀 <b>News Clude</b> – Modern News App (REST API)
+  <br><br>
 
   <!-- 2 -->
   <a href="https://github.com/ahmede2test/ToDo-App-master">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=ahmede2test&repo=ToDo-App-master&theme=tokyonight&border_radius=20" />
   </a>
   <br>📝 <b>ToDo Master</b> – Task Manager (Local Storage)
+  <br><br>
 
   <!-- 3 -->
   <a href="https://github.com/ahmede2test/Islamy_Application--dev">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=ahmede2test&repo=Islamy_Application--dev&theme=tokyonight&border_radius=20" />
   </a>
   <br>🕌 <b>Islamy App</b> – Quran • Hadith • Audio
+  <br><br>
 
   <!-- 4 -->
   <a href="https://github.com/ahmede2test/Chat_App">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=ahmede2test&repo=Chat_App&theme=tokyonight&border_radius=20" />
   </a>
-  <br>💬 <b>Chat App</b> – Firebase Realtime Messaging
+  <br>💬 <b>Chat App</b> – Firebase Real-Time Messaging
+  <br><br>
 
   <!-- 5 -->
   <a href="https://github.com/ahmede2test/Tracking_App">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=ahmede2test&repo=Tracking_App&theme=tokyonight&border_radius=20" />
   </a>
   <br>📍 <b>Tracking App</b> – ESP32 • GPS • SIM800L SMS Tracking
+  <br><br>
 
   <!-- 6 -->
   <a href="https://github.com/ahmede2test/Ecommerce_App">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=ahmede2test&repo=Ecommerce_App&theme=tokyonight&border_radius=20" />
   </a>
   <br>🛒 <b>E-Commerce App</b> – Cart • Products • UI
+  <br><br>
 
   <!-- 7 -->
   <a href="https://github.com/ahmede2test/Portfolio_App">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=ahmede2test&repo=Portfolio_App&theme=tokyonight&border_radius=20" />
   </a>
   <br>🎨 <b>Portfolio App</b> – Personal Branding UI
+  <br><br>
 
   <!-- 8 -->
   <a href="https://github.com/ahmede2test/Notes_App">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=ahmede2test&repo=Notes_App&theme=tokyonight&border_radius=20" />
   </a>
   <br>📝 <b>Notes App</b> – Hive • Fast Notes
+  <br><br>
 
   <!-- 9 -->
   <a href="https://github.com/ahmede2test/Weather_App">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=ahmede2test&repo=Weather_App&theme=tokyonight&border_radius=20" />
   </a>
   <br>🌤 <b>Weather App</b> – Weather API • Dynamic UI
+  <br><br>
 
   <!-- 10 -->
   <a href="https://github.com/ahmede2test/Movies_App">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=ahmede2test&repo=Movies_App&theme=tokyonight&border_radius=20" />
   </a>
   <br>🎬 <b>Movies App</b> – TMDB API Movie Explorer
+  <br><br>
 
   <!-- 11 -->
   <a href="https://github.com/ahmede2test/Quiz_App">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=ahmede2test&repo=Quiz_App&theme=tokyonight&border_radius=20" />
   </a>
   <br>🧠 <b>Quiz App</b> – Interactive Questions
+  <br><br>
 
   <!-- 12 -->
   <a href="https://github.com/ahmede2test/Login_UI">
@@ -120,10 +131,10 @@ Animations • Custom Widgets • Dark/Light Mode • Responsive Design
 
 ---
 
-## 🐍 Contribution Snake  
+## 🐍 Contribution Snake
 
 <div align="center">
- <img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" width="100%" />
+ <img src="https://raw.githubusercontent.com/ahmede2test/ahmede2test/output/snake.svg" width="100%" />
 </div>
 
 ---
