@@ -1,4 +1,4 @@
- <div align="center">
+<div align="center">
   <img height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" />
 </div>
 
@@ -9,6 +9,26 @@
 
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00F3FF&center=true&vCenter=true&width=600&lines=Flutter+Developer;Mobile+Engineer;Firebase+Expert;Clean+Architecture+Advocate;IoT+%7C+ESP32+%7C+GPS+Tracking" />
+</div>
+
+---
+
+## 🛠 Multi-Domain Proficiency
+
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="30" alt="Flutter logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" height="30" alt="Dart logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="30" alt="Firebase logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="30" alt="C++ logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="30" alt="Linux logo"  />
 </div>
 
 ---
@@ -91,7 +111,7 @@
 
 ---
 
-## 🚀 My Tech Stack
+## ⚙️ My Tech Stack Deep Dive
 
 ### 🛠 Core Mobile Development & Architecture  
 **Flutter & Dart:** Enterprise-scale application development, **Solid Principles**, **Clean Architecture** (with **Domain-Driven Design** principles).  
@@ -111,7 +131,7 @@ Responsive Design • Modern Layouts
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Performance & Metrics
 
 <div align="center">
   <img height="150" src="https://github-readme-stats.vercel.app/api?username=ahmede2test&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" />
@@ -122,7 +142,7 @@ Responsive Design • Modern Layouts
 
 ## 🐍 Contribution Snake  
 <div align="center">
-  <img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" width="100%" />
+  <img src="https://raw.githubusercontent.com/ahmede2test/ahmede2test/output/snake.svg" alt="Snake animation" width="100%" />
 </div>
 
 ---
